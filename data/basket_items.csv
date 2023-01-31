@@ -1,0 +1,733 @@
+Transaction_Id,Item_Name,Item_Size,Item_Price,Quantity
+1,Flavoured iced latte  Hazelnut,Large,3.25,1
+1,Flavoured iced latte  Caramel,Regular,2.75,1
+1,Flavoured iced latte  Hazelnut,Regular,2.75,2
+1,Flavoured latte  Hazelnut,Regular,2.55,1
+1,Flavoured iced latte  Caramel,Large,3.25,1
+2,Latte,Regular,2.15,1
+2,Flat white,Large,2.45,1
+3,Latte,Large,2.45,1
+3,Flavoured latte  Hazelnut,Regular,2.55,1
+4,Latte,Large,2.45,1
+4,Latte,Regular,2.15,1
+5,Flavoured iced latte  Hazelnut,Large,3.25,1
+5,Flat white,Regular,2.15,2
+5,Latte,Regular,2.15,1
+5,Flavoured iced latte  Caramel,Large,3.25,1
+6,Flavoured iced latte  Hazelnut,Large,3.25,1
+6,Flavoured iced latte  Vanilla,Large,3.25,1
+6,Flavoured latte  Hazelnut,Large,2.85,1
+6,Latte,Large,2.45,1
+6,Flavoured iced latte  Vanilla,Regular,2.75,1
+6,Flavoured latte  Hazelnut,Large,2.85,1
+7,Flavoured latte  Hazelnut,Large,2.85,1
+7,Latte,Large,2.45,1
+7,Flavoured iced latte  Hazelnut,Regular,2.75,1
+7,Flavoured iced latte  Vanilla,Regular,2.75,1
+7,Flavoured iced latte  Vanilla,Regular,2.75,1
+8,Latte,Large,2.45,2
+8,Flavoured iced latte  Caramel,Regular,2.75,1
+8,Latte,Regular,2.15,1
+8,Flavoured iced latte  Caramel,Regular,2.75,1
+9,Flavoured latte  Hazelnut,Large,2.85,1
+9,Flat white,Large,2.45,1
+10,Flavoured latte  Hazelnut,Large,2.85,2
+10,Latte,Large,2.45,1
+10,Flat white,Regular,2.15,1
+10,Flavoured iced latte  Vanilla,Regular,2.75,1
+11,Latte,Regular,2.15,1
+12,Flavoured latte  Hazelnut,Large,2.85,1
+12,Latte,Large,2.45,1
+12,Flavoured latte  Hazelnut,Regular,2.55,1
+12,Flat white,Large,2.45,1
+13,Flat white,Regular,2.15,2
+13,Flavoured iced latte  Caramel,Regular,2.75,1
+13,Flavoured iced latte  Vanilla,Regular,2.75,1
+13,Flavoured iced latte  Vanilla,Regular,2.75,1
+14,Flat white,Regular,2.15,1
+14,Flavoured iced latte  Hazelnut,Regular,2.75,1
+14,Flavoured iced latte  Caramel,Regular,2.75,1
+15,Flavoured iced latte  Hazelnut,Large,3.25,1
+15,Flat white,Large,2.45,1
+16,Latte,Regular,2.15,1
+17,Flat white,Large,2.45,1
+17,Flavoured iced latte  Vanilla,Large,3.25,1
+17,Flat white,Regular,2.15,2
+17,Flavoured latte  Hazelnut,Regular,2.55,1
+18,Flavoured iced latte  Hazelnut,Regular,2.75,1
+18,Flavoured iced latte  Caramel,Large,3.25,1
+19,Flavoured latte  Hazelnut,Large,2.85,2
+19,Latte,Large,2.45,1
+19,Flavoured latte  Hazelnut,Regular,2.55,1
+20,Latte,Regular,2.15,1
+20,Flavoured iced latte  Hazelnut,Regular,2.75,1
+21,Flavoured iced latte  Hazelnut,Regular,2.75,1
+21,Flat white,Regular,2.15,1
+22,Latte,Large,2.45,1
+22,Flat white,Regular,2.15,1
+22,Flavoured latte  Hazelnut,Large,2.85,1
+23,Flavoured latte  Hazelnut,Large,2.85,2
+23,Flavoured iced latte  Vanilla,Regular,2.75,1
+24,Latte,Regular,2.15,1
+25,Latte,Large,2.45,1
+25,Flat white,Regular,2.15,1
+25,Flat white,Regular,2.15,1
+26,Flavoured iced latte  Caramel,Large,3.25,1
+26,Flat white,Large,2.45,1
+27,Flavoured iced latte  Caramel,Large,3.25,1
+27,Latte,Large,2.45,1
+27,Flavoured iced latte  Vanilla,Regular,2.75,1
+27,Latte,Regular,2.15,2
+27,Flat white,Large,2.45,1
+28,Flat white,Large,2.45,1
+28,Flavoured latte  Hazelnut,Large,2.85,3
+28,Latte,Regular,2.15,1
+28,Flavoured iced latte  Caramel,Regular,2.75,1
+29,Flat white,Regular,2.15,2
+29,Flat white,Large,2.45,1
+30,Flavoured iced latte  Caramel,Large,3.25,1
+30,Flavoured latte  Hazelnut,Large,2.85,1
+30,Flat white,Regular,2.15,1
+30,Flavoured iced latte  Hazelnut,Regular,2.75,1
+30,Flavoured iced latte  Vanilla,Regular,2.75,1
+30,Flat white,Regular,2.15,1
+31,Flavoured iced latte  Hazelnut,Large,3.25,1
+31,Flavoured iced latte  Hazelnut,Large,3.25,1
+32,Flavoured iced latte  Caramel,Large,3.25,1
+32,Flat white,Regular,2.15,1
+32,Flavoured iced latte  Hazelnut,Regular,2.75,2
+32,Latte,Regular,2.15,1
+32,Flavoured latte  Hazelnut,Regular,2.55,1
+33,Flavoured iced latte  Caramel,Regular,2.75,1
+33,Latte,Regular,2.15,1
+33,Flavoured iced latte  Vanilla,Regular,2.75,1
+34,Flavoured iced latte  Hazelnut,Large,3.25,1
+34,Flavoured iced latte  Vanilla,Large,3.25,1
+34,Latte,Large,2.45,1
+35,Flavoured iced latte  Hazelnut,Regular,2.75,1
+35,Flavoured latte  Hazelnut,Regular,2.55,1
+35,Flavoured iced latte  Vanilla,Large,3.25,1
+36,Latte,Large,2.45,1
+36,Flat white,Regular,2.15,1
+36,Flavoured iced latte  Hazelnut,Regular,2.75,1
+36,Flat white,Large,2.45,1
+37,Flavoured iced latte  Vanilla,Regular,2.75,1
+37,Flavoured iced latte  Vanilla,Regular,2.75,1
+38,Flat white,Regular,2.15,1
+38,Flavoured iced latte  Caramel,Large,3.25,1
+39,Flavoured iced latte  Caramel,Regular,2.75,1
+40,Flavoured iced latte  Caramel,Large,3.25,1
+40,Flavoured iced latte  Hazelnut,Large,3.25,1
+40,Flavoured iced latte  Hazelnut,Regular,2.75,1
+40,Flavoured iced latte  Hazelnut,Large,3.25,1
+41,Flavoured iced latte  Vanilla,Large,3.25,1
+41,Latte,Regular,2.15,1
+42,Latte,Large,2.45,1
+42,Flavoured iced latte  Hazelnut,Regular,2.75,1
+43,Flavoured latte  Hazelnut,Large,2.85,1
+43,Latte,Large,2.45,1
+44,Flavoured latte  Hazelnut,Large,2.85,1
+44,Flat white,Regular,2.15,1
+44,Flavoured iced latte  Caramel,Regular,2.75,1
+45,Flavoured latte  Hazelnut,Large,2.85,1
+45,Flavoured iced latte  Hazelnut,Regular,2.75,1
+45,Flavoured iced latte  Vanilla,Regular,2.75,1
+45,Flavoured iced latte  Hazelnut,Large,3.25,1
+46,Flavoured latte  Hazelnut,Large,2.85,1
+46,Latte,Regular,2.15,1
+46,Flavoured iced latte  Hazelnut,Regular,2.75,1
+47,Flavoured iced latte  Vanilla,Large,3.25,1
+47,Flavoured iced latte  Caramel,Large,3.25,1
+48,Flat white,Large,2.45,1
+48,Flavoured iced latte  Caramel,Regular,2.75,1
+48,Flavoured latte  Hazelnut,Regular,2.55,1
+48,Latte,Large,2.45,1
+49,Flavoured iced latte  Hazelnut,Large,3.25,1
+50,Flavoured latte  Hazelnut,Large,2.85,1
+50,Latte,Large,2.45,1
+50,Flat white,Large,2.45,1
+51,Flavoured latte  Hazelnut,Large,2.85,1
+51,Flavoured iced latte  Caramel,Regular,2.75,2
+51,Flavoured latte  Hazelnut,Regular,2.55,1
+51,Flavoured iced latte  Hazelnut,Large,3.25,1
+52,Flat white,Regular,2.15,1
+52,Flavoured iced latte  Caramel,Regular,2.75,1
+53,Latte,Large,2.45,1
+53,Latte,Regular,2.15,2
+53,Flavoured iced latte  Caramel,Regular,2.75,1
+54,Flavoured iced latte  Vanilla,Regular,2.75,1
+54,Flavoured latte  Hazelnut,Regular,2.55,1
+54,Latte,Regular,2.15,1
+54,Flat white,Large,2.45,1
+55,Flavoured latte  Hazelnut,Large,2.85,1
+56,Flavoured iced latte  Caramel,Large,3.25,1
+56,Flavoured iced latte  Hazelnut,Large,3.25,1
+57,Latte,Regular,2.15,1
+57,Flavoured latte  Hazelnut,Large,2.85,1
+58,Flavoured iced latte  Caramel,Regular,2.75,1
+59,Flavoured iced latte  Vanilla,Large,3.25,1
+59,Flavoured latte  Hazelnut,Regular,2.55,1
+60,Flavoured iced latte  Hazelnut,Large,3.25,1
+60,Flavoured iced latte  Vanilla,Regular,2.75,1
+60,Flat white,Regular,2.15,1
+61,Latte,Regular,2.15,1
+62,Flavoured iced latte  Hazelnut,Large,3.25,1
+62,Flat white,Regular,2.15,1
+62,Latte,Regular,2.15,1
+62,Latte,Large,2.45,1
+63,Flavoured iced latte  Vanilla,Large,3.25,1
+63,Flavoured latte  Hazelnut,Large,2.85,1
+63,Latte,Large,2.45,1
+63,Flat white,Regular,2.15,1
+64,Flavoured latte  Hazelnut,Regular,2.55,1
+64,Latte,Regular,2.15,1
+64,Flat white,Regular,2.15,1
+65,Flat white,Regular,2.15,1
+65,Flavoured latte  Hazelnut,Regular,2.55,1
+65,Flavoured iced latte  Caramel,Regular,2.75,1
+66,Latte,Large,2.45,1
+66,Flavoured latte  Hazelnut,Regular,2.55,1
+66,Flat white,Regular,2.15,1
+67,Flavoured latte  Hazelnut,Large,2.85,2
+67,Flavoured iced latte  Caramel,Regular,2.75,1
+67,Flavoured latte  Hazelnut,Regular,2.55,1
+68,Latte,Large,2.45,2
+68,Latte,Regular,2.15,1
+68,Flavoured iced latte  Caramel,Regular,2.75,1
+69,Flat white,Large,2.45,1
+69,Flavoured iced latte  Hazelnut,Regular,2.75,1
+69,Flavoured iced latte  Vanilla,Regular,2.75,1
+70,Flavoured iced latte  Caramel,Large,3.25,2
+70,Flavoured latte  Hazelnut,Regular,2.55,1
+71,Flavoured iced latte  Hazelnut,Large,3.25,1
+71,Flat white,Regular,2.15,1
+72,Flavoured latte  Hazelnut,Large,2.85,2
+72,Flavoured iced latte  Vanilla,Regular,2.75,1
+72,Flavoured latte  Hazelnut,Regular,2.55,1
+73,Flat white,Large,2.45,1
+73,Flavoured iced latte  Caramel,Large,3.25,1
+74,Latte,Large,2.45,1
+74,Flavoured iced latte  Vanilla,Large,3.25,1
+75,Flavoured latte  Hazelnut,Large,2.85,1
+75,Flavoured iced latte  Hazelnut,Regular,2.75,1
+75,Flavoured iced latte  Hazelnut,Regular,2.75,1
+76,Flavoured latte  Hazelnut,Large,2.85,1
+77,Flavoured iced latte  Vanilla,Large,3.25,1
+78,Flavoured iced latte  Hazelnut,Large,3.25,1
+78,Latte,Regular,2.15,1
+78,Flavoured latte  Hazelnut,Large,2.85,1
+79,Flat white,Large,2.45,1
+79,Flavoured iced latte  Hazelnut,Large,3.25,1
+79,Flat white,Regular,2.15,1
+79,Flavoured iced latte  Caramel,Regular,2.75,1
+79,Latte,Regular,2.15,1
+79,Flavoured iced latte  Hazelnut,Large,3.25,1
+80,Flavoured iced latte  Caramel,Large,3.25,1
+81,Flat white,Large,2.45,1
+81,Flavoured iced latte  Hazelnut,Regular,2.75,1
+81,Latte,Regular,2.15,1
+81,Flavoured iced latte  Hazelnut,Regular,2.75,1
+82,Flavoured iced latte  Vanilla,Large,3.25,1
+82,Flavoured latte  Hazelnut,Large,2.85,1
+82,Flavoured iced latte  Hazelnut,Regular,2.75,1
+82,Flat white,Large,2.45,1
+83,Flavoured iced latte  Hazelnut,Large,3.25,1
+83,Flat white,Large,2.45,1
+84,Flavoured iced latte  Caramel,Large,3.25,1
+84,Flavoured latte  Hazelnut,Large,2.85,1
+84,Flavoured iced latte  Caramel,Regular,2.75,1
+84,Latte,Regular,2.15,1
+84,Flat white,Regular,2.15,1
+85,Latte,Large,2.45,1
+85,Flat white,Regular,2.15,1
+85,Flavoured iced latte  Hazelnut,Regular,2.75,1
+85,Flavoured latte  Hazelnut,Regular,2.55,1
+85,Latte,Regular,2.15,1
+85,Flavoured iced latte  Caramel,Large,3.25,1
+86,Flat white,Regular,2.15,1
+86,Latte,Regular,2.15,1
+86,Flavoured iced latte  Hazelnut,Large,3.25,1
+87,Flavoured iced latte  Hazelnut,Large,3.25,1
+87,Flat white,Regular,2.15,2
+87,Flavoured iced latte  Hazelnut,Regular,2.75,2
+87,Flavoured iced latte  Caramel,Large,3.25,1
+88,Flavoured iced latte  Caramel,Large,3.25,1
+88,Latte,Large,2.45,1
+89,Flavoured iced latte  Hazelnut,Large,3.25,1
+89,Flavoured iced latte  Hazelnut,Regular,2.75,2
+89,Flat white,Regular,2.15,1
+90,Flat white,Large,2.45,1
+90,Latte,Large,2.45,1
+90,Flavoured iced latte  Caramel,Large,3.25,1
+91,Flat white,Large,2.45,1
+92,Flat white,Large,2.45,1
+92,Flat white,Regular,2.15,1
+92,Flavoured iced latte  Vanilla,Regular,2.75,1
+92,Flavoured latte  Hazelnut,Regular,2.55,1
+92,Latte,Regular,2.15,1
+93,Latte,Large,2.45,1
+94,Flavoured iced latte  Caramel,Large,3.25,1
+94,Flavoured iced latte  Hazelnut,Regular,2.75,1
+94,Latte,Large,2.45,1
+95,Flat white,Large,2.45,1
+95,Flavoured iced latte  Caramel,Large,3.25,1
+95,Flavoured iced latte  Caramel,Regular,2.75,1
+95,Flavoured iced latte  Hazelnut,Regular,2.75,1
+95,Latte,Regular,2.15,1
+95,Flavoured iced latte  Hazelnut,Regular,2.75,1
+96,Flavoured iced latte  Caramel,Regular,2.75,1
+96,Flavoured latte  Hazelnut,Regular,2.55,1
+96,Flavoured iced latte  Caramel,Large,3.25,1
+97,Flavoured latte  Hazelnut,Large,2.85,1
+97,Flavoured iced latte  Caramel,Regular,2.75,1
+97,Flavoured latte  Hazelnut,Regular,2.55,1
+98,Flavoured latte  Hazelnut,Large,2.85,1
+98,Latte,Large,2.45,2
+98,Flavoured iced latte  Vanilla,Regular,2.75,1
+99,Flavoured latte  Hazelnut,Large,2.85,1
+99,Latte,Large,2.45,1
+99,Flat white,Regular,2.15,1
+99,Flavoured iced latte  Caramel,Regular,2.75,1
+99,Flavoured latte  Hazelnut,Large,2.85,1
+100,Flavoured latte  Hazelnut,Regular,2.55,1
+100,Flavoured iced latte  Hazelnut,Regular,2.75,1
+101,Latte,Large,2.45,1
+102,Flavoured iced latte  Vanilla,Large,3.25,1
+102,Latte,Large,2.45,2
+102,Flavoured iced latte  Vanilla,Regular,2.75,1
+102,Flat white,Large,2.45,1
+103,Flavoured iced latte  Caramel,Regular,2.75,1
+104,Latte,Large,2.45,1
+104,Flavoured latte  Hazelnut,Regular,2.55,1
+104,Flavoured iced latte  Caramel,Large,3.25,1
+105,Flavoured iced latte  Caramel,Large,3.25,1
+105,Flavoured latte  Hazelnut,Large,2.85,1
+105,Latte,Large,2.45,1
+105,Flavoured latte  Hazelnut,Regular,2.55,1
+105,Flavoured iced latte  Caramel,Large,3.25,1
+106,Latte,Large,2.45,1
+107,Flavoured iced latte  Caramel,Large,3.25,1
+108,Flavoured iced latte  Caramel,Regular,2.75,1
+109,Latte,Regular,2.15,1
+110,Flavoured latte  Hazelnut,Large,2.85,1
+110,Latte,Large,2.45,1
+111,Flavoured iced latte  Vanilla,Large,3.25,2
+111,Flavoured latte  Hazelnut,Large,2.85,1
+111,Latte,Large,2.45,1
+111,Flat white,Large,2.45,1
+112,Flat white,Regular,2.15,2
+112,Flavoured iced latte  Vanilla,Regular,2.75,1
+112,Flavoured iced latte  Vanilla,Regular,2.75,1
+113,Flavoured iced latte  Caramel,Large,3.25,1
+113,Flavoured iced latte  Vanilla,Large,3.25,1
+114,Flat white,Large,2.45,1
+114,Flavoured iced latte  Caramel,Regular,2.75,2
+114,Flavoured iced latte  Hazelnut,Regular,2.75,1
+114,Flavoured iced latte  Hazelnut,Regular,2.75,1
+115,Latte,Large,2.45,1
+116,Flavoured latte  Hazelnut,Large,2.85,1
+116,Flavoured iced latte  Hazelnut,Large,3.25,1
+117,Flavoured iced latte  Caramel,Large,3.25,2
+117,Flavoured iced latte  Caramel,Regular,2.75,1
+117,Flavoured iced latte  Hazelnut,Regular,2.75,1
+117,Flavoured iced latte  Caramel,Regular,2.75,1
+118,Latte,Large,2.45,1
+118,Flavoured iced latte  Hazelnut,Regular,2.75,1
+118,Flavoured iced latte  Caramel,Large,3.25,1
+119,Flat white,Regular,2.15,1
+119,Flavoured iced latte  Hazelnut,Regular,2.75,2
+119,Latte,Regular,2.15,1
+119,Flavoured iced latte  Hazelnut,Large,3.25,1
+120,Flavoured iced latte  Hazelnut,Regular,2.75,1
+120,Latte,Large,2.45,1
+121,Flavoured iced latte  Caramel,Large,3.25,1
+121,Latte,Regular,2.15,1
+121,Flavoured latte  Hazelnut,Regular,2.55,1
+122,Flavoured iced latte  Hazelnut,Large,3.25,1
+122,Latte,Large,2.45,1
+122,Flavoured latte  Hazelnut,Regular,2.55,1
+122,Flat white,Large,2.45,1
+123,Flavoured iced latte  Caramel,Large,3.25,1
+123,Flat white,Regular,2.15,1
+123,Flavoured iced latte  Caramel,Large,3.25,1
+124,Flat white,Large,2.45,1
+124,Flavoured iced latte  Vanilla,Large,3.25,1
+124,Latte,Large,2.45,1
+124,Flavoured latte  Hazelnut,Regular,2.55,1
+124,Latte,Regular,2.15,1
+125,Flavoured iced latte  Caramel,Large,3.25,1
+125,Flavoured latte  Hazelnut,Regular,2.55,1
+125,Flavoured iced latte  Vanilla,Large,3.25,1
+126,Flavoured iced latte  Vanilla,Regular,2.75,1
+126,Latte,Regular,2.15,1
+126,Latte,Regular,2.15,1
+127,Flavoured iced latte  Vanilla,Regular,2.75,1
+128,Flat white,Regular,2.15,1
+128,Flavoured iced latte  Caramel,Regular,2.75,1
+129,Latte,Large,2.45,1
+129,Flat white,Regular,2.15,1
+129,Flavoured iced latte  Hazelnut,Regular,2.75,1
+129,Latte,Large,2.45,1
+130,Latte,Large,2.45,1
+130,Flavoured latte  Hazelnut,Large,2.85,1
+131,Flavoured iced latte  Vanilla,Regular,2.75,1
+132,Flavoured iced latte  Vanilla,Large,3.25,1
+132,Latte,Regular,2.15,1
+132,Latte,Large,2.45,1
+133,Flavoured iced latte  Caramel,Regular,2.75,1
+134,Flavoured latte  Hazelnut,Large,2.85,1
+134,Latte,Large,2.45,1
+134,Flavoured iced latte  Hazelnut,Large,3.25,1
+135,Flat white,Large,2.45,1
+135,Latte,Large,2.45,1
+136,Flavoured iced latte  Hazelnut,Large,3.25,1
+136,Flavoured latte  Hazelnut,Large,2.85,1
+136,Flavoured iced latte  Caramel,Regular,2.75,1
+136,Flavoured iced latte  Vanilla,Regular,2.75,1
+137,Flavoured iced latte  Vanilla,Regular,2.75,1
+137,Flat white,Large,2.45,1
+138,Flavoured latte  Hazelnut,Large,2.85,1
+138,Flat white,Regular,2.15,2
+138,Flavoured iced latte  Caramel,Regular,2.75,1
+138,Flavoured iced latte  Vanilla,Large,3.25,1
+139,Flavoured iced latte  Caramel,Large,3.25,1
+139,Flavoured iced latte  Vanilla,Large,3.25,1
+139,Latte,Large,2.45,1
+139,Flat white,Regular,2.15,1
+139,Flavoured iced latte  Vanilla,Regular,2.75,1
+140,Flat white,Regular,2.15,1
+140,Flavoured iced latte  Vanilla,Regular,2.75,1
+140,Latte,Regular,2.15,1
+141,Flavoured iced latte  Vanilla,Large,3.25,1
+141,Flavoured latte  Hazelnut,Regular,2.55,1
+141,Flat white,Regular,2.15,1
+142,Flavoured iced latte  Caramel,Large,3.25,1
+142,Flavoured iced latte  Hazelnut,Regular,2.75,1
+142,Flat white,Large,2.45,1
+143,Flat white,Large,2.45,1
+143,Flavoured latte  Hazelnut,Large,2.85,1
+144,Flavoured iced latte  Vanilla,Large,3.25,1
+144,Flavoured iced latte  Vanilla,Regular,2.75,1
+145,Flavoured iced latte  Hazelnut,Large,3.25,1
+145,Flavoured iced latte  Vanilla,Large,3.25,1
+145,Flavoured iced latte  Caramel,Regular,2.75,1
+145,Latte,Regular,2.15,1
+145,Flavoured iced latte  Hazelnut,Large,3.25,1
+146,Flavoured latte  Hazelnut,Regular,2.55,1
+147,Latte,Regular,2.15,1
+148,Flavoured iced latte  Vanilla,Large,3.25,1
+149,Flavoured latte  Hazelnut,Large,2.85,1
+149,Latte,Large,2.45,2
+149,Flavoured iced latte  Vanilla,Regular,2.75,1
+149,Latte,Regular,2.15,1
+149,Flavoured iced latte  Vanilla,Regular,2.75,1
+150,Flavoured latte  Hazelnut,Large,2.85,1
+150,Flavoured iced latte  Caramel,Regular,2.75,1
+150,Flavoured latte  Hazelnut,Regular,2.55,1
+151,Flat white,Large,2.45,1
+151,Flavoured iced latte  Hazelnut,Regular,2.75,2
+151,Flavoured iced latte  Vanilla,Regular,2.75,1
+151,Flavoured iced latte  Caramel,Regular,2.75,1
+152,Flavoured iced latte  Vanilla,Regular,2.75,1
+153,Flavoured iced latte  Hazelnut,Large,3.25,1
+153,Flat white,Regular,2.15,2
+153,Flat white,Regular,2.15,1
+154,Latte,Large,2.45,1
+155,Flavoured iced latte  Vanilla,Regular,2.75,1
+155,Latte,Regular,2.15,1
+156,Flavoured iced latte  Vanilla,Large,3.25,1
+156,Latte,Regular,2.15,1
+156,Flavoured latte  Hazelnut,Regular,2.55,1
+157,Flat white,Large,2.45,1
+157,Flavoured iced latte  Hazelnut,Regular,2.75,1
+157,Latte,Regular,2.15,1
+157,Flavoured iced latte  Hazelnut,Regular,2.75,1
+158,Flavoured latte  Hazelnut,Regular,2.55,2
+158,Flavoured iced latte  Hazelnut,Large,3.25,1
+159,Flat white,Large,2.45,1
+159,Flavoured iced latte  Hazelnut,Large,3.25,1
+159,Flavoured latte  Hazelnut,Large,2.85,1
+159,Flavoured iced latte  Caramel,Regular,2.75,1
+159,Latte,Regular,2.15,1
+160,Flavoured iced latte  Hazelnut,Large,3.25,1
+160,Flavoured iced latte  Caramel,Regular,2.75,1
+160,Flavoured iced latte  Vanilla,Regular,2.75,1
+160,Latte,Large,2.45,1
+161,Flavoured iced latte  Caramel,Large,3.25,1
+161,Latte,Regular,2.15,1
+162,Flat white,Large,2.45,1
+162,Flat white,Regular,2.15,1
+162,Flavoured iced latte  Caramel,Regular,2.75,1
+162,Flavoured latte  Hazelnut,Regular,2.55,1
+162,Flavoured iced latte  Caramel,Regular,2.75,1
+163,Flavoured iced latte  Caramel,Large,3.25,1
+163,Flat white,Large,2.45,1
+164,Flat white,Regular,2.15,1
+164,Flavoured iced latte  Caramel,Regular,2.75,1
+165,Flat white,Large,2.45,1
+165,Flavoured latte  Hazelnut,Large,2.85,1
+165,Latte,Regular,2.15,1
+165,Flavoured iced latte  Caramel,Regular,2.75,1
+166,Flavoured latte  Hazelnut,Large,2.85,1
+167,Latte,Large,2.45,1
+168,Latte,Large,2.45,1
+168,Flavoured latte  Hazelnut,Large,2.85,1
+169,Latte,Large,2.45,1
+170,Flavoured latte  Hazelnut,Regular,2.55,1
+171,Flavoured iced latte  Hazelnut,Large,3.25,1
+171,Flavoured iced latte  Hazelnut,Regular,2.75,1
+171,Flavoured iced latte  Caramel,Regular,2.75,1
+172,Flavoured iced latte  Caramel,Regular,2.75,1
+172,Flavoured iced latte  Vanilla,Large,3.25,1
+173,Flavoured latte  Hazelnut,Regular,2.55,1
+173,Flavoured iced latte  Caramel,Regular,2.75,1
+174,Flavoured iced latte  Hazelnut,Large,3.25,1
+175,Flavoured iced latte  Caramel,Regular,2.75,1
+175,Flavoured iced latte  Hazelnut,Regular,2.75,1
+175,Flavoured iced latte  Vanilla,Regular,2.75,1
+175,Flavoured latte  Hazelnut,Regular,2.55,1
+175,Flavoured iced latte  Hazelnut,Large,3.25,1
+176,Flavoured iced latte  Caramel,Large,3.25,1
+176,Flavoured iced latte  Vanilla,Large,3.25,1
+176,Flat white,Regular,2.15,1
+176,Flavoured iced latte  Vanilla,Regular,2.75,1
+176,Latte,Regular,2.15,1
+176,Flavoured iced latte  Vanilla,Large,3.25,1
+177,Latte,Large,2.45,1
+177,Latte,Regular,2.15,1
+177,Latte,Regular,2.15,1
+178,Flat white,Regular,2.15,1
+178,Flavoured iced latte  Caramel,Regular,2.75,1
+178,Flavoured latte  Hazelnut,Regular,2.55,1
+178,Flat white,Regular,2.15,1
+179,Flavoured iced latte  Hazelnut,Large,3.25,1
+179,Latte,Regular,2.15,1
+179,Flavoured iced latte  Vanilla,Regular,2.75,1
+180,Flavoured latte  Hazelnut,Large,2.85,1
+180,Flat white,Regular,2.15,1
+180,Flavoured latte  Hazelnut,Regular,2.55,1
+180,Flavoured iced latte  Caramel,Large,3.25,1
+181,Flavoured iced latte  Hazelnut,Large,3.25,1
+182,Flavoured latte  Hazelnut,Large,2.85,2
+182,Latte,Large,2.45,1
+182,Flavoured iced latte  Caramel,Regular,2.75,1
+183,Flavoured iced latte  Vanilla,Regular,2.75,1
+184,Flavoured iced latte  Vanilla,Large,3.25,1
+184,Flavoured iced latte  Hazelnut,Large,3.25,1
+185,Flavoured iced latte  Hazelnut,Large,3.25,1
+186,Flat white,Regular,2.15,1
+187,Flavoured iced latte  Vanilla,Large,3.25,1
+187,Flavoured latte  Hazelnut,Regular,2.55,1
+187,Latte,Large,2.45,1
+188,Flat white,Large,2.45,1
+188,Flavoured latte  Hazelnut,Regular,2.55,1
+188,Flavoured iced latte  Hazelnut,Large,3.25,1
+189,Latte,Large,2.45,1
+190,Flavoured iced latte  Caramel,Large,3.25,1
+190,Flavoured iced latte  Hazelnut,Large,3.25,1
+190,Flat white,Regular,2.15,1
+190,Flavoured iced latte  Vanilla,Regular,2.75,1
+191,Flavoured iced latte  Caramel,Regular,2.75,1
+192,Flavoured iced latte  Caramel,Large,3.25,1
+192,Flavoured iced latte  Vanilla,Large,3.25,1
+192,Flavoured latte  Hazelnut,Large,2.85,1
+192,Flat white,Regular,2.15,1
+192,Latte,Regular,2.15,1
+192,Latte,Regular,2.15,1
+193,Flavoured iced latte  Caramel,Regular,2.75,1
+193,Latte,Large,2.45,1
+194,Flavoured iced latte  Vanilla,Large,3.25,1
+194,Flavoured latte  Hazelnut,Regular,2.55,1
+194,Flavoured iced latte  Vanilla,Regular,2.75,1
+195,Flavoured iced latte  Caramel,Large,3.25,1
+196,Flavoured latte  Hazelnut,Regular,2.55,1
+197,Flavoured iced latte  Caramel,Large,3.25,1
+197,Flavoured iced latte  Hazelnut,Regular,2.75,1
+197,Flavoured iced latte  Vanilla,Regular,2.75,1
+197,Flavoured iced latte  Caramel,Regular,2.75,1
+198,Flat white,Large,2.45,1
+198,Flavoured iced latte  Caramel,Regular,2.75,1
+199,Flavoured iced latte  Caramel,Regular,2.75,1
+200,Flavoured iced latte  Hazelnut,Regular,2.75,1
+200,Flavoured latte  Hazelnut,Regular,2.55,1
+201,Flavoured iced latte  Caramel,Large,3.25,1
+201,Flat white,Regular,2.15,2
+201,Flavoured iced latte  Caramel,Regular,2.75,1
+201,Flavoured iced latte  Hazelnut,Regular,2.75,1
+202,Flat white,Large,2.45,2
+202,Flavoured latte  Hazelnut,Regular,2.55,1
+202,Latte,Regular,2.15,1
+202,Flavoured iced latte  Caramel,Regular,2.75,1
+203,Flavoured iced latte  Hazelnut,Large,3.25,1
+203,Flat white,Regular,2.15,1
+203,Flavoured iced latte  Vanilla,Regular,2.75,1
+203,Flavoured latte  Hazelnut,Regular,2.55,1
+203,Latte,Large,2.45,1
+204,Flat white,Large,2.45,1
+205,Flavoured iced latte  Caramel,Large,3.25,1
+205,Flavoured iced latte  Hazelnut,Large,3.25,1
+205,Latte,Regular,2.15,1
+205,Latte,Regular,2.15,1
+206,Flavoured latte  Hazelnut,Large,2.85,1
+206,Flat white,Regular,2.15,1
+206,Flavoured iced latte  Vanilla,Regular,2.75,1
+206,Flavoured iced latte  Vanilla,Regular,2.75,1
+207,Flavoured iced latte  Hazelnut,Large,3.25,1
+207,Flavoured latte  Hazelnut,Large,2.85,1
+208,Latte,Regular,2.15,1
+209,Flavoured iced latte  Caramel,Large,3.25,1
+209,Latte,Large,2.45,1
+209,Flavoured latte  Hazelnut,Large,2.85,1
+210,Flat white,Large,2.45,1
+210,Flat white,Regular,2.15,2
+210,Flavoured latte  Hazelnut,Regular,2.55,1
+211,Flavoured latte  Hazelnut,Large,2.85,1
+211,Flavoured latte  Hazelnut,Large,2.85,1
+212,Flat white,Regular,2.15,1
+212,Flavoured iced latte  Hazelnut,Regular,2.75,1
+212,Latte,Regular,2.15,1
+213,Flavoured latte  Hazelnut,Large,2.85,1
+214,Flat white,Large,2.45,1
+214,Flavoured iced latte  Vanilla,Large,3.25,1
+214,Flavoured latte  Hazelnut,Large,2.85,1
+214,Flavoured latte  Hazelnut,Regular,2.55,1
+214,Flavoured iced latte  Vanilla,Large,3.25,1
+215,Flat white,Large,2.45,1
+215,Flat white,Regular,2.15,1
+216,Latte,Large,2.45,1
+217,Latte,Large,2.45,1
+217,Flavoured iced latte  Caramel,Regular,2.75,2
+217,Flavoured iced latte  Caramel,Regular,2.75,1
+218,Flat white,Large,2.45,1
+218,Latte,Regular,2.15,1
+218,Flavoured iced latte  Vanilla,Regular,2.75,1
+219,Flat white,Large,2.45,1
+219,Flat white,Regular,2.15,1
+219,Flavoured iced latte  Vanilla,Regular,2.75,1
+219,Flavoured latte  Hazelnut,Regular,2.55,1
+220,Flavoured latte  Hazelnut,Large,2.85,1
+220,Flat white,Regular,2.15,1
+220,Flavoured iced latte  Hazelnut,Regular,2.75,1
+220,Latte,Large,2.45,1
+221,Flat white,Large,2.45,1
+221,Flavoured iced latte  Caramel,Large,3.25,1
+221,Flat white,Regular,2.15,1
+221,Flavoured iced latte  Vanilla,Regular,2.75,1
+221,Flavoured iced latte  Hazelnut,Regular,2.75,1
+222,Flavoured latte  Hazelnut,Large,2.85,1
+222,Flavoured iced latte  Vanilla,Regular,2.75,1
+223,Flavoured iced latte  Caramel,Large,3.25,1
+223,Flavoured latte  Hazelnut,Regular,2.55,1
+223,Latte,Regular,2.15,1
+223,Flat white,Large,2.45,1
+224,Latte,Regular,2.15,1
+224,Flavoured iced latte  Caramel,Regular,2.75,1
+225,Flavoured iced latte  Caramel,Regular,2.75,1
+226,Flat white,Large,2.45,1
+226,Flat white,Large,2.45,1
+227,Flavoured iced latte  Hazelnut,Large,3.25,1
+228,Flat white,Large,2.45,1
+228,Flavoured iced latte  Vanilla,Large,3.25,2
+228,Flat white,Regular,2.15,1
+228,Flat white,Regular,2.15,1
+229,Latte,Regular,2.15,1
+229,Flat white,Large,2.45,1
+230,Flavoured iced latte  Hazelnut,Large,3.25,1
+231,Flat white,Large,2.45,1
+231,Latte,Large,2.45,1
+231,Flavoured iced latte  Hazelnut,Regular,2.75,1
+232,Flavoured iced latte  Caramel,Large,3.25,1
+232,Latte,Regular,2.15,2
+232,Flavoured latte  Hazelnut,Regular,2.55,1
+233,Flavoured iced latte  Vanilla,Large,3.25,1
+233,Flavoured iced latte  Vanilla,Regular,2.75,1
+233,Flavoured iced latte  Hazelnut,Large,3.25,1
+234,Flavoured iced latte  Vanilla,Large,3.25,1
+234,Flavoured iced latte  Caramel,Regular,2.75,1
+234,Flavoured iced latte  Caramel,Regular,2.75,1
+235,Flavoured iced latte  Vanilla,Large,3.25,1
+236,Flavoured latte  Hazelnut,Large,2.85,1
+236,Flat white,Large,2.45,1
+237,Latte,Regular,2.15,1
+237,Flavoured iced latte  Caramel,Regular,2.75,1
+238,Flavoured iced latte  Caramel,Regular,2.75,1
+238,Flavoured latte  Hazelnut,Regular,2.55,1
+238,Flat white,Regular,2.15,1
+239,Flavoured latte  Hazelnut,Regular,2.55,1
+239,Flavoured iced latte  Hazelnut,Large,3.25,1
+240,Flavoured iced latte  Hazelnut,Regular,2.75,1
+240,Flavoured iced latte  Hazelnut,Large,3.25,1
+241,Latte,Large,2.45,1
+241,Flavoured iced latte  Caramel,Regular,2.75,1
+241,Flavoured latte  Hazelnut,Regular,2.55,1
+241,Latte,Regular,2.15,1
+241,Flavoured iced latte  Vanilla,Regular,2.75,1
+242,Flavoured iced latte  Caramel,Large,3.25,1
+242,Flavoured iced latte  Vanilla,Large,3.25,1
+242,Flavoured iced latte  Caramel,Large,3.25,1
+243,Flavoured iced latte  Vanilla,Large,3.25,1
+243,Flavoured iced latte  Hazelnut,Large,3.25,1
+244,Flavoured iced latte  Vanilla,Large,3.25,1
+244,Flat white,Large,2.45,1
+245,Flavoured iced latte  Hazelnut,Regular,2.75,1
+245,Latte,Regular,2.15,1
+246,Latte,Regular,2.15,1
+246,Flavoured iced latte  Hazelnut,Regular,2.75,1
+247,Flavoured iced latte  Caramel,Large,3.25,1
+247,Flavoured iced latte  Vanilla,Large,3.25,1
+247,Flavoured iced latte  Hazelnut,Regular,2.75,2
+247,Flavoured iced latte  Vanilla,Regular,2.75,1
+247,Flavoured iced latte  Vanilla,Regular,2.75,1
+248,Flavoured iced latte  Vanilla,Regular,2.75,1
+249,Flavoured iced latte  Vanilla,Regular,2.75,1
+249,Flavoured iced latte  Hazelnut,Regular,2.75,1
+250,Flavoured iced latte  Caramel,Large,3.25,1
+250,Latte,Large,2.45,1
+250,Flavoured iced latte  Caramel,Large,3.25,1
+251,Flavoured latte  Hazelnut,Large,2.85,1
+251,Flavoured iced latte  Hazelnut,Regular,2.75,1
+252,Flavoured iced latte  Caramel,Large,3.25,1
+252,Flavoured latte  Hazelnut,Regular,2.55,2
+252,Flat white,Regular,2.15,1
+253,Flavoured iced latte  Hazelnut,Regular,2.75,1
+254,Flat white,Large,2.45,1
+254,Flavoured iced latte  Hazelnut,Large,3.25,1
+254,Flavoured iced latte  Vanilla,Regular,2.75,1
+254,Flavoured latte  Hazelnut,Regular,2.55,1
+254,Flavoured latte  Hazelnut,Regular,2.55,1
+255,Flavoured iced latte  Hazelnut,Regular,2.75,1
+256,Flat white,Large,2.45,1
+257,Flavoured latte  Hazelnut,Large,2.85,1
+257,Flat white,Large,2.45,1
+258,Latte,Large,2.45,1
+258,Flavoured latte  Hazelnut,Regular,2.55,2
+258,Latte,Large,2.45,1
+259,Flavoured iced latte  Hazelnut,Large,3.25,1
+259,Flavoured iced latte  Hazelnut,Regular,2.75,1
+259,Flavoured latte  Hazelnut,Regular,2.55,1
+259,Flavoured iced latte  Caramel,Regular,2.75,1
+260,Flavoured iced latte  Vanilla,Large,3.25,1
+260,Flavoured latte  Hazelnut,Large,2.85,1
+260,Latte,Large,2.45,1
+260,Flavoured iced latte  Caramel,Regular,2.75,2
+260,Flavoured iced latte  Vanilla,Large,3.25,1
+261,Flavoured iced latte  Hazelnut,Large,3.25,1
+261,Flavoured latte  Hazelnut,Large,2.85,1
+261,Flavoured iced latte  Hazelnut,Large,3.25,1
+262,Flavoured iced latte  Hazelnut,Regular,2.75,1
+262,Flavoured iced latte  Vanilla,Regular,2.75,1
+262,Flavoured latte  Hazelnut,Regular,2.55,1
+262,Flavoured iced latte  Hazelnut,Regular,2.75,1
+263,Flavoured iced latte  Caramel,Large,3.25,1
+263,Flavoured iced latte  Vanilla,Large,3.25,1
+263,Latte,Large,2.45,1
+263,Latte,Regular,2.15,1
+263,Flavoured iced latte  Vanilla,Large,3.25,1
+264,Flavoured iced latte  Vanilla,Large,3.25,1
+264,Flavoured latte  Hazelnut,Large,2.85,1
+265,Flat white,Regular,2.15,1
+265,Flavoured iced latte  Caramel,Regular,2.75,1
+265,Flavoured latte  Hazelnut,Regular,2.55,1
+265,Flavoured iced latte  Hazelnut,Large,3.25,1
+266,Flavoured latte  Hazelnut,Regular,2.55,1
+267,Flat white,Large,2.45,1
